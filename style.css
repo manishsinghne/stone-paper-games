@@ -1,0 +1,44 @@
+img{
+    width: 200px;
+    margin: 33px;
+}
+.img{
+    background-color: antiquewhite;
+margin: 33px 22px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 77px;
+
+}
+.on{
+    margin-right: 0px;
+}
+button{
+    margin-left: 93px 
+}
+h1{
+    margin-left: 176px;
+}
+.count{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 22px;
+    margin-bottom: 42px;
+
+}
+.count .one{
+    background-color: aquamarine;
+
+}
+.count .two{
+    background-color: aquamarine;
+
+}
+.play{
+    margin-left: 333px;
+    font-size: 22px;
+    background-color: aquamarine;
+}
